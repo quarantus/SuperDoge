@@ -1,0 +1,12 @@
+{
+  "description": "The Super Doge is a Dev",
+  "repo": "https://github.com/quarantus/SuperDoge",
+  "owner": {
+    "username": "quarantus",
+    "email": "[email protected]"
+  },
+  "record": {
+    "CNAME": "quarantus.github.io"
+  }
+ 
+}
